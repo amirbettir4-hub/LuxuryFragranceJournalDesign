@@ -1,0 +1,10 @@
+{
+  "description": "Explore and document luxury fragrances with a sleek journal featuring curated scent collections, detailed bottle info, and personalized notes.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
